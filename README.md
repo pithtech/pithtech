@@ -1,16 +1,26 @@
-## Hi there 👋
+# Edwin N. Gonzales
 
-<!--
-**pithtech/pithtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering lead — more than thirty years shipping production systems,
+and still writing code every day.
 
-Here are some ideas to get you started:
+Currently Head of Engineering and lead developer at
+[OpenSPP](https://openspp.org), an open-source social protection
+platform running in national programmes in five countries. Before that:
+hospital information systems, fifteen years directing university-wide
+IT, ERP for manufacturing and retail, and a consultancy practice where
+nobody hands over a finished spec.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**The full story — including a short introduction video:**
+**[edwin.pithtech.net](https://edwin.pithtech.net)**
+
+- Python · FastAPI · Odoo · PostgreSQL · AWS — working AI-first with
+  Claude Code
+- Nueva Vizcaya, Philippines · remote worldwide
+- [edwin@pithtech.net](mailto:edwin@pithtech.net) ·
+  [LinkedIn](https://www.linkedin.com/in/edwin-nariz-gonzales/)
+
+> My OpenSPP contributions live under
+> [@gonzalesedwin1123](https://github.com/gonzalesedwin1123) in the
+> [OpenSPP organisation](https://github.com/OpenSPP). This account hosts
+> my consultancy and personal work — selected projects are being made
+> public.
